@@ -1,0 +1,62 @@
+#main {
+  border: 1px solid rgb(255, 255, 255, 0.2);
+  border-radius: 12px;
+  backdrop-filter: blur(10px);
+  margin: auto;
+  width: 350px;
+  height: 500px;
+  padding: 10px 10px;
+  margin-top: 100px;
+  background: transparent;
+  color:black;
+}
+#main:hover #span1 {
+  color: aqua;
+  text-decoration: underline;
+}
+#mn {
+  margin-top: 5px;
+  width: 335px;
+}
+#ps {
+  margin-top: 5px;
+  width: 335px;
+}
+#sp {
+  height: 40px;
+  width: 70px;
+  background-color: plum;
+  margin-top: 20px;
+  margin-left: 134px;
+  border-radius: 7px;
+  font-size: 15px;
+}
+h2 {
+  font-size: 35px;
+}
+h4 {
+  margin-top: -30px;
+}
+h2 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+h5 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+body {
+  background-image: url(./Landscape\ Art\ Ai\ Style.jpeg);
+  background-size: cover;
+  background-position: center;
+}
+h1 {
+  text-align: center;
+  margin-bottom: -70px;
+  font-size: 60px;
+}
+#DOB {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 10px;
+  width: 100px;
+}
+

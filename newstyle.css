@@ -1,0 +1,26 @@
+#main4 {
+    border: 2px solid rgb(255, 255, 255, 0.7);
+    height: 250px;
+    width: 250px;
+    padding: 10px 10px 10px;
+    margin: auto;
+    margin-top: 250px;
+    background: transparent;
+    color: rgb(255, 255, 255);
+    backdrop-filter: blura(5px);
+    background: linear-gradient(100deg, skyblue, green);
+  }
+  h5 {
+    margin-top: 30px;
+    font-size: 20px;
+  }
+  h2 {
+    margin-left: 70px;
+    font-size: 30px;
+  }
+  body {
+    background-image: url(./Peaceful\ nature\ landscape\ -\ AI\ Digital\ Art\ Download\ -\ Printable.jpeg);
+    background-size: cover;
+  }
+  
+  
